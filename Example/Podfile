@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SemRealm_Tests' do
+  pod 'SemRealm', :path => '../'
+  
+  
+end
